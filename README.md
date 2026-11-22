@@ -87,3 +87,13 @@ Ashutosh Kumar
 ## License
 
 This project is created for academic and learning purposes.
+
+
+
+## Screenshots
+
+### Home Page – Movie Search
+![CineScope Home Page](screenshots/home.png)
+
+### Movie Details
+![CineScope Movie Details](screenshots/movie-details.png)
