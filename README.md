@@ -2,6 +2,9 @@
 
 A responsive movie discovery application built using React.js and the OMDb API. Search for movies and explore their details, ratings, genres, plots and cast information.
 
+## Live Demo
+https://cinescope-ten-phi.vercel.app 
+
 ## Features
 
 - Search movies by title.
