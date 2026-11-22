@@ -106,7 +106,7 @@ function App() {
   return (
     <div>
 
-      <h1>Movie Search Application</h1>
+      <h1>CineScope</h1>
 
       <form onSubmit={searchMovies}>
 
